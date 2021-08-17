@@ -21,7 +21,6 @@ RUN sed -i -e 's/ main/ main contrib non-free/g' /etc/apt/sources.list && \
       supervisor \
       streamlink \
       unzip \
-      vlc \
       wget \
       x11vnc \
       xterm \
